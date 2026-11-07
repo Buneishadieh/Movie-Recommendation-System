@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+ # Movie-Recommendation-System
 A Movie Recommendation System  uses Machine Learning algorithms to suggest movies to users based on their preferences, ratings, and interests. It helps users discover movies they are likely to enjoy through personalized recommendations
 
 **Team**: Group One 
@@ -13,7 +13,7 @@ The pipeline follows CRISP-DM: business understanding → dataset creation → d
 
 # Main Features
 
-1.**Personalized Recommendations:** Suggests movies based on user preferences.
+1. **Personalized Recommendations:** Suggests movies based on user preferences.
 
 2. **Movie Search:** Allows users to search for movies by title.
 
