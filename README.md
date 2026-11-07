@@ -1,8 +1,7 @@
 # Movie-Recommendation-System
 A Movie Recommendation System  uses Machine Learning algorithms to suggest movies to users based on their preferences, ratings, and interests. It helps users discover movies they are likely to enjoy through personalized recommendations
 
-## Team:
-Group One
+## Team: **Group One**
 ## Contributors:
 Violet Matoke, Bunei Shadrack, Samuel Ojenge, Joyce Kirimi, Carole Wambui, Doreen Wathimu
 ## Date: 
