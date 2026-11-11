@@ -1,39 +1,76 @@
- # Movie-Recommendation-System
-A Movie Recommendation System  uses Machine Learning algorithms to suggest movies to users based on their preferences, ratings, and interests. It helps users discover movies they are likely to enjoy through personalized recommendations
+## Movie Recommendation System Using Collaborative Filtering
 
-**Team**: Group One 
+**Background**
 
-**Contributors**:Violet Matoke, Bunei Shadrack, Samuel Ojenge, Joyce Kirimi, Carole Wambui, Doreen Wathimu
+As online movie libraries continue to grow, users face challenges in identifying content that matches their interests. Recommendation systems address this problem by analyzing historical user behavior and predicting items that users are likely to prefer.
 
-**Date:** November 2026
+Using the MovieLens dataset, this project implements collaborative filtering techniques to learn from user rating patterns and generate personalized Top-5 movie recommendations. The effectiveness of the recommendation models is evaluated using standard prediction accuracy metrics.
+
+**Problem Statement**
+
+Users spend significant time searching for movies that match their preferences. Generic recommendations often fail to capture individual tastes, resulting in reduced engagement and satisfaction.
+
+The objective of this project is to develop a recommendation system capable of suggesting movies that users are likely to enjoy based on historical rating patterns. The system should generate personalized Top-5 movie recommendations using collaborative filtering techniques.
+
+**Business Understanding**
+
+From a business perspective, recommendation systems are essential because they:
+
+- Increase user engagement
+- Improve user satisfaction
+- Enhance content discovery
+- Increase customer retention
+- Improve platform usage and watch time
+
+Streaming services rely heavily on recommendation engines to personalize user experiences and maximize customer lifetime value.
+
+**Project Objectives**
+
+The main objectives of this project are:
+
+- Analyze the MovieLens dataset.
+- Perform data cleaning and exploratory data analysis.
+- Build recommendation models using collaborative filtering.
+- Compare different collaborative filtering approaches.
+- Evaluate recommendation performance using appropriate metrics.
+- Generate Top-5 personalized movie recommendations.
+- Recommend the most suitable model based on evaluation results.
 
 
-# Methodology
-The pipeline follows CRISP-DM: business understanding → dataset creation → data understanding → cleaning → EDA → modelling → conclusions.
+**Expected Outcomes**
+The project will be considered successful if:
 
-# Main Features
-
-1. **Personalized Recommendations:** Suggests movies based on user preferences.
-
-2. **Movie Search:** Allows users to search for movies by title.
-
-3. **Genre-Based Recommendations:** Recommends movies based on selected genres.
-
-4. **Movie Ratings:** Uses movie ratings to improve recommendations.
-
-5. **Similar Movies:** Suggests movies similar to a selected movie.
-
-6. **Machine Learning:** Uses recommendation algorithms to analyze movie data and generate suggestions.
+- The model produces meaningful movie recommendations.
+- Evaluation metrics show acceptable prediction accuracy.
+- The system generates Top-5 recommendations for unseen movies.
+- Recommendation quality improves compared to baseline methods
 
 
-# Technologies Used
+**Project Workflow**
 
-. Python
 
-. Machine Learning
+Exploratory Data Analysis (EDA)
+- Ratings Analysis
+- User Activity
+- Movie Popularity
+- Genre Analysis
+- Sparsity Analysis
 
-. Pandas
+Data preparation
 
-. NumPy
+Algorithm comparison
 
-. Scikit-learn
+Hyperparameter tuning
+
+Final evaluation 
+
+Recommendation function
+Model Evaluation
+Cold start / content-based
+Ranking metrics (stretch)
+
+Recommendation Demonstration
+
+Conclusion & Business Insights
+
+Future Improvements
