@@ -49,28 +49,21 @@ The project will be considered successful if:
 **Project Workflow**
 
 
-Exploratory Data Analysis (EDA)
+1.Exploratory Data Analysis (EDA)
 - Ratings Analysis
 - User Activity
 - Movie Popularity
 - Genre Analysis
 - Sparsity Analysis
+2.Data preparation
+3.Algorithm comparison
+4.Hyperparameter tuning
+5.Final evaluation 
+6.Recommendation function
+7.Model Evaluation
+8.Cold start / content-based
+9.Ranking metrics (stretch)
+10.Conclusion 
+11.Recommendations and Future Improvements
 
-Data preparation
 
-Algorithm comparison
-
-Hyperparameter tuning
-
-Final evaluation 
-
-Recommendation function
-Model Evaluation
-Cold start / content-based
-Ranking metrics (stretch)
-
-Recommendation Demonstration
-
-Conclusion & Business Insights
-
-Future Improvements
